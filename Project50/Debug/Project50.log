@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jihad\source\repos\project50\project50\source.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\jihad\source\repos\project50\project50\source.cpp(225): warning C4018: '<': signed/unsigned mismatch
+  Project50.vcxproj -> C:\Users\jihad\source\repos\Project50\Debug\Project50.exe
